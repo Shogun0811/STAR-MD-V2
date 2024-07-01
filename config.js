@@ -7,13 +7,13 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = ['2347045035241', 'Excel', true]
+global.owner = ['221760263631', 'Excel', true]
  //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2347045035241'] 
-global.prems = ['2347045035241']
+global.mods = ['221760263631'] 
+global.prems = ['221760263631']
 global.allowed = ['2347045035241']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
