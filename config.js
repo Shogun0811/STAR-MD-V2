@@ -10,7 +10,7 @@ import axios from 'axios'
 global.owner = ['221760263631', 'Excel', true]
  //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "Xlicon_d435b286-141b-45f6-9b0c-3f35a419156e" //put your bot number here
 
 global.mods = ['221760263631'] 
 global.prems = ['221760263631']
